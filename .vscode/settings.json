@@ -1,0 +1,43 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "192.168.1.7",
+      "port": 3307,
+      "driver": "MySQL",
+      "name": "MySQL Docker - ClubFutbol",
+      "database": "clubfutbol",
+      "username": "root",
+      "password": "admin"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "192.168.1.7",
+      "port": 3307,
+      "driver": "MySQL",
+      "name": "MySQL Docker - Sistema Kardex",
+      "database": "sistema_kardex",
+      "username": "root",
+      "password": "admin"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "192.168.1.7",
+      "port": 3307,
+      "driver": "MySQL",
+      "name": "MySQL Docker - Cine - Campus",
+      "database": "cinecampus",
+      "username": "root",
+      "password": "admin"
+    }
+  ]
+}
